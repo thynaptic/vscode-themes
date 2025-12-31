@@ -41,10 +41,10 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thynaptic/vscode-themes"
+    "url": "https://github.com/cassianwolfe/vscode-themes"
   },
   "bugs": {
-    "url": "https://github.com/thynaptic/vscode-themes/issues"
+    "url": "https://github.com/cassianwolfe/vscode-themes/issues"
   },
   "homepage": "https://thynaptic.com",
   "galleryBanner": {
