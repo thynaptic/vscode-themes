@@ -1,0 +1,54 @@
+{
+  "name": "thynaptic-color-themes",
+  "displayName": "Thynaptic Color Themes",
+  "description": "A collection of dark and light color themes for Visual Studio Code by Thynaptic. Includes Thynaptic Dark, Thynaptic Dim, and Thynaptic Sand themes.",
+  "version": "0.2.0",
+  "publisher": "thynaptic",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thynaptic Dark (Base)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thynaptic-dark-base-color-theme.json"
+      },
+      {
+        "label": "Thynaptic Dim (Base)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thynaptic-dim-base-color-theme.json"
+      },
+      {
+        "label": "Thynaptic Sand (Base)",
+        "uiTheme": "vs",
+        "path": "./themes/thynaptic-sand-base-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "color theme",
+    "thynaptic",
+    "dark",
+    "dim"
+  ],
+  "qna": "marketplace",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thynaptic/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/thynaptic/vscode-themes/issues"
+  },
+  "homepage": "https://thynaptic.com",
+  "galleryBanner": {
+    "color": "#0A0A0A",
+    "theme": "dark"
+  }
+}

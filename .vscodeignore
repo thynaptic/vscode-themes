@@ -1,0 +1,5 @@
+**/*.zip
+**/*.vsix
+**/.DS_Store
+**/node_modules/**
+assets/**/*.psd
