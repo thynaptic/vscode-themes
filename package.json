@@ -39,6 +39,10 @@
   ],
   "qna": "marketplace",
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0A0A0A",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/cassianwolfe/vscode-themes"
@@ -46,9 +50,5 @@
   "bugs": {
     "url": "https://github.com/cassianwolfe/vscode-themes/issues"
   },
-  "homepage": "https://thynaptic.com",
-  "galleryBanner": {
-    "color": "#0A0A0A",
-    "theme": "dark"
-  }
+  "homepage": "https://thynaptic.com"
 }
