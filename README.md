@@ -1,6 +1,6 @@
 # Thynaptic Color Themes
 
-![Hero](assets/hero.png)
+![Hero](assets/Hero.png)
 
 **Official VS Code color themes by Thynaptic** – Expertly crafted for clarity, consistency, and elegance
 
@@ -14,7 +14,7 @@ Three professionally designed themes built on neutral surfaces and refined typog
 - **Thynaptic Dim** – Softer contrast for low-light and extended sessions  
 - **Thynaptic Sand** – Warm light theme with natural aesthetics
 
-![Main Screenshot](assets/main.png)
+![Main Screenshot](assets/Main.png)
 
 ## Features
 
@@ -25,9 +25,8 @@ Three professionally designed themes built on neutral surfaces and refined typog
 
 ## Screenshots
 
-![Thynaptic Dark](assets/screenshot-dark.png)  
-![Thynaptic Dim](assets/screenshot-dim.png)  
-![Thynaptic Sand](assets/screenshot-sand.png)
+![Thynaptic Dark](assets/BaseDarkpng.png)  
+![Thynaptic Sand](assets/CodeSand.png)
 
 ## Installation
 
