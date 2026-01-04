@@ -1,42 +1,63 @@
 # Thynaptic Color Themes
 
-![Hero](assets/Hero.png)
+Official Visual Studio Code color themes by Thynaptic. Designed for clarity, consistency, and minimal distraction across extended coding sessions.
 
-**Official VS Code color themes by Thynaptic** – Expertly crafted for clarity, consistency, and elegance
+## Themes
 
----
+**Thynaptic Dark (Base)**  
+High-contrast neutral dark theme optimized for well-lit environments. Pure grayscale palette with strategic orange and red accents for syntax highlighting.
 
-## Overview
+**Thynaptic Dim (Base)**  
+Softer contrast variant of Dark. Reduced brightness for low-light conditions and extended work sessions without sacrificing readability.
 
-Three professionally designed themes built on neutral surfaces and refined typography. Each theme minimizes eye strain while maintaining exceptional contrast and readability across all syntax elements.
+**Thynaptic Sand (Base)**  
+Warm light theme with natural paper-like aesthetics. Designed for users who prefer light backgrounds with subtle earth-tone palette.
 
-- **Thynaptic Dark** – High contrast for well-lit environments
-- **Thynaptic Dim** – Softer contrast for low-light and extended sessions  
-- **Thynaptic Sand** – Warm light theme with natural aesthetics
+**Thynaptic Sand Dark**  
+Dark variant of Sand theme. Maintains warm, sandy color philosophy while providing comfortable dark-mode experience.
 
-![Main Screenshot](assets/Main.png)
+## Design Principles
 
-## Features
+**Neutral-First Palette**  
+All themes prioritize neutral colors for primary interface elements and syntax. Blue accent colors have been removed in favor of grayscale foundations.
 
-✨ Neutral-First Design – Clean, distraction-free surfaces  
-🎨 Consistent Thynaptic Blue – Strategic visual cohesion  
-⚡ Semantic Colors – Warnings, errors, and indicators  
-👁️ Optimized Contrast – Reduced eye fatigue  
+**Strategic Color Use**  
+Orange (#FE9A00) for strings, numbers, and warnings. Red (#FF2056) for errors and critical indicators. All other elements use foreground neutrals.
 
-## Screenshots
+**Consistent Contrast**  
+Optimized contrast ratios across all themes reduce eye strain while maintaining clear visual hierarchy for code structure.
 
-![Thynaptic Dark](assets/BaseDarkpng.png)  
-![Thynaptic Sand](assets/CodeSand.png)
+**Minimal Distraction**  
+Clean, professional aesthetic aligned with Thynaptic brand identity. No unnecessary visual noise or competing color schemes.
 
 ## Installation
 
-1. Open **Visual Studio Code**
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search **"Thynaptic Color Themes"**
-4. Click **Install**
-5. Open Command Palette (Ctrl+Shift+P / Cmd+Shift+P)
-6. Select **Preferences: Color Theme** and choose your theme
+1. Open Visual Studio Code
+2. Navigate to Extensions view (Ctrl+Shift+X or Cmd+Shift+X)
+3. Search for "Thynaptic Color Themes"
+4. Install the extension
+5. Open Command Palette (Ctrl+Shift+P or Cmd+Shift+P)
+6. Select "Preferences: Color Theme"
+7. Choose your preferred Thynaptic theme
+
+## Version History
+
+**0.3.0**
+- Added Thynaptic Sand Dark theme
+- Removed blue accent colors from Dark and Dim themes
+- Updated all themes to neutral color palettes aligned with Thynaptic brand
+
+**0.2.0**
+- Added Thynaptic Sand (Base) light theme
+
+**0.1.0**
+- Initial release with Dark and Dim variants
 
 ## License
 
-MIT – See [LICENSE](LICENSE)
+MIT License. See [LICENSE](LICENSE) for details.
+
+## Publisher
+
+Thynaptic  
+https://thynaptic.com
