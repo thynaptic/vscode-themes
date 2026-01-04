@@ -26,6 +26,11 @@
         "label": "Thynaptic Sand (Base)",
         "uiTheme": "vs",
         "path": "./themes/thynaptic-sand-base-color-theme.json"
+      },
+      {
+        "label": "Thynaptic Sand Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thynaptic-sand-dark-color-theme.json"
       }
     ]
   },
