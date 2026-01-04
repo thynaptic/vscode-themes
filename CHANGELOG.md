@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0
+- Add **Thynaptic Sand Dark** dark variant (warm dark sand style).
+
 ## 0.2.0
 - Add **Thynaptic Sand (Base)** light variant (warm paper/sand style).
 
