@@ -16,6 +16,12 @@ Warm light theme with natural paper-like aesthetics. Designed for users who pref
 **Thynaptic Sand Dark**  
 Dark variant of Sand theme. Maintains warm, sandy color philosophy while providing comfortable dark-mode experience.
 
+**Thynaptic Pro**  
+Professional enterprise theme with very dark backgrounds and neutral gray accents. Inspired by partners.thynaptic.com design language for focused, distraction-free coding.
+
+**Mavaia**  
+Minimal cognitive infrastructure theme with enterprise-grade aesthetics. Based on mavaia.com's sovereign infrastructure design with subtle green and orange syntax highlighting.
+
 ## Design Principles
 
 **Neutral-First Palette**  
@@ -41,6 +47,10 @@ Clean, professional aesthetic aligned with Thynaptic brand identity. No unnecess
 7. Choose your preferred Thynaptic theme
 
 ## Version History
+
+**0.4.0**
+- Added Thynaptic Pro theme
+- Added Mavaia theme
 
 **0.3.0**
 - Added Thynaptic Sand Dark theme

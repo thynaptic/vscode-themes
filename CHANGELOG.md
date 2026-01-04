@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.0
+- Add **Thynaptic Pro** theme based on the professional design of partners.thynaptic.com with very dark backgrounds and neutral gray accents.
+- Add **Mavaia** theme inspired by mavaia.com's cognitive infrastructure aesthetic with minimal, enterprise-grade colors.
+
 ## 0.3.0
 - Add **Thynaptic Sand Dark** dark variant (warm dark sand style).
 - Update **Thynaptic Dark (Base)** and **Thynaptic Dim (Base)** to remove blue accent colors.
